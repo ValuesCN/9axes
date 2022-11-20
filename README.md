@@ -1,2 +1,2 @@
-# 9axes.github.io
-The 9axes Political Quiz measures individuals' political values across 9 axes.
+# 9axes
+9axes是政治测验，旨在通过一系列问题衡量一个人在9个坐标轴上的政治价值观，并为人们分配一个意识形态。
