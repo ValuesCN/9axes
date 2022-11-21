@@ -1,5 +1,5 @@
 questions = 
-    [[//Federal-Unitary`
+    [[//联邦-集权`
         [//4
             "国家政府没有必要存在。",
             "国家的行政区划应该拥有自己的军队。",
@@ -8,11 +8,11 @@ questions =
         [//3
             "州份法律和地方法律应优先于国家法律。",
             "国家政府理解不了人民需要什么。",
-            "人们对地方政府的忠诚度应该高于对国家的忠诚度。"
+            "人们对地方政府的忠诚度应当高于国家。"
         ],
         [//2
-            "地方政府应该拥有比目前更多的权力。",
-            "法律在一个国家中应该因地区和文化而异。",
+            "地方政府应该比目前拥有更多的权力。",
+            "在一个国家中，法律应该因地区和文化而异。",
             "在一个州内测试一项政策，而不是在全国范围内立即实施它，是一个好主意。"
             
         ],
@@ -23,33 +23,33 @@ questions =
         ],
         [//-1
             "如果没有国家政府，一个国家就无法运转。",
-            "国家政府能够比一些地方政府更好地保护少数民族。",
-            "有许多在地方一级内无法得到有意义解决的问题。"
+            "国家政府比一些地方政府能够更好地保护少数民族。",
+            "有许多问题在地方一级无法得到实际解决。"
         ],
         [//-2
             "国家政府需要更多权力。",
-            "行政区划不应免除国家法律的约束。",
+            "行政区划不应不受国家法律的约束。",
             "人们应该认为自己是他们国家的公民，而不是他们州的公民。"
         ],
         [//-3
             "没有强大国家政府的州群只是一个联盟，而不是一个国家。",
             "足够强大的国家政府才能充分保护其所有公民。",
-            "州份需要一个强大的国家政府才能运作。"
+            "一个强大的国家政府才能运作州份。"
         ],
         [//-4
             "不需要地方政府或者州政府。",
             "法律应在一个国家的所有地区保持完全一致。",
-            "强大的州份将会削弱国家。"
+            "州强国弱，州弱国强。"
         ]],[//Democratic-Authoritarian`
         [//4
-            "Direct democracy is the best form of government",
-            "People should vote issue by issue themselves",
-            "Representatives rarely represent the nation well"
+            "直接民主制是最好的政府形式。",
+            "人们应该对他们提出的议题逐个投票表决。",
+            "民意代表很少能很好地代表国民。"
         ],
         [//3
-            "It is important that the government follows the majority opinion, even if it is wrong.",
-            "The more people asked, the better chance there is of reaching the best decision.",
-            "Nobody but me can adequately represent my views"
+            "重要的是，即使多数人的意见是错误的，政府也必须遵循他们的意见。",
+            "问的人越多，达成最佳决定的机会越大。",
+            "除我以外，没有人能够充分代表我的观点。"
         ],
         [//2
             "Elections are an effective way of showing government approval",
