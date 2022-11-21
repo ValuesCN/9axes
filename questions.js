@@ -1,45 +1,45 @@
 questions = 
     [[//Federal-Unitary`
         [//4
-            "There is no need for a national government",
-            "Subdivisions of nations should have their own militaries",
-            "State laws should have precedence over national laws"
+            "国家政府没有必要存在。",
+            "国家的行政区划应该拥有自己的军队。",
+            "州份法律应优先于国家法律。"
         ],
         [//3
-            "State and local laws should have precedence over national laws",
-            "The national government can't understand what the people need.",
-            "People should hold more loyalty to their local state than their country."
+            "州份法律和地方法律应优先于国家法律。",
+            "国家政府理解不了人民需要什么。",
+            "人们对地方政府的忠诚度应该高于对国家的忠诚度。"
         ],
         [//2
-            "Local governments should have more power than they currently do",
-            "Laws should vary from area to area and culture to culture within a country.",
-            "It's a good idea to test a policy in one state rather than implementing it nationwide right away"
+            "地方政府应该拥有比目前更多的权力。",
+            "法律在一个国家中应该因地区和文化而异。",
+            "在一个州内测试一项政策，而不是在全国范围内立即实施它，是一个好主意。"
             
         ],
         [//1
-            "Local governments can understand their citizens better than the national government could",
-            "Local governments address issues that the national government would never touch without them",
-            "Local governments give each region good representation of their views"
+            "地方政府比国家政府更了解它的公民。",
+            "地方政府可以解决国家政府永远无法直接触及的问题。",
+            "地方政府让每个地区都可以很好地代表自己的观点。"
         ],
         [//-1
-            "A country cannot function without a national government",
-            "The national government protects minorities better than some local governments do.",
-            "There are many issues that it does not make sense to address at a local level"
+            "如果没有国家政府，一个国家就无法运转。",
+            "国家政府能够比一些地方政府更好地保护少数民族。",
+            "有许多在地方一级内无法得到有意义解决的问题。"
         ],
         [//-2
-            "The national government needs more power",
-            "Subdivisions should not be able to exempt from national laws",
-            "People should think of themselves as citizens of their nation rather than their state"
+            "国家政府需要更多权力。",
+            "行政区划不应免除国家法律的约束。",
+            "人们应该认为自己是他们国家的公民，而不是他们州的公民。"
         ],
         [//-3
-            "A group of states without a strong national government is merely an alliance, not a nation",
-            "A national government must be strong to adequately protect all its citizens",
-            "States cannot function without a strong national government"
+            "没有强大国家政府的州群只是一个联盟，而不是一个国家。",
+            "足够强大的国家政府才能充分保护其所有公民。",
+            "州份需要一个强大的国家政府才能运作。"
         ],
         [//-4
-            "There is no need for local or state governments",
-            "Laws should be completely consistent within all regions of a nation",
-            "Strong states weaken a nation"
+            "不需要地方政府或者州政府。",
+            "法律应在一个国家的所有地区保持完全一致。",
+            "强大的州份将会削弱国家。"
         ]],[//Democratic-Authoritarian`
         [//4
             "Direct democracy is the best form of government",
