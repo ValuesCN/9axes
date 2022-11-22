@@ -120,246 +120,245 @@ questions =
             "外交只会伤害国家。",
             "国际法不应存在。",
             "只有在交易不利于我们的时候，其他国家才会想要与我们交易商品。"
-        ]],[//Militarist-Pacifist
+        ]],[//军国-和平
         [//4
-            "War is needed to make an economy thrive",
-            "A constant state of war benefits a country",
-            "Only those who serve in the military should be allowed to have influence on who is in power"
+            "只有不断的战争才能使经济繁荣。",
+            "持续的战争有利于国。",
+            "只有在军队服役的人才能影响谁来掌权。"
         ],
         [//3
-            "There should be compulsory military service",
-            "Countries that do not serve our interests should be toppled",
-            "Only those who served in the military should be able to gain power in government"
+            "应当实行义务兵役制。",
+            "应该推翻不符合我们利益的国家。",
+            "只有曾在军队中服役的人才能在政府中获得权力。"
         ],
         [//2
-            "Military action by our nation is often necessary to protect it.",
-            "Countries that violate human rights should be toppled",
-            "A military option should always be considered"
+            "采取军事行动保护祖国是必要的.",
+            "应该推翻侵犯人权的国家。",
+            "我们总是应该考虑军事选择。"
         ],
         [//1
-            "A government must maintain a strong military to defend itself",
-            "A nation usually needs a military in order to survive",
-            "We should respect those who have served in our military"
+            "政府必须维持一支强大的军队来保卫自己",
+            "一个国家通常需要有一支军队才能生存。",
+            "我们应该尊重曾在我们的军队中服役的人"
         ],
         [//-1
-            "It is more important to retain peaceful relations than to further our strength.",
-            "Diplomatic options should always be tried before war is even considered",
-            "Peace is preferable to war whenever possible"
+            "保持国际和平关系比加强我国综合国力更重要。",
+            "我们应始终优先考虑外交而不是军事选择。",
+            "在有可能的情况下，和平比战争更可取。"
         ],
         [//-2
-            "Even when protesting an authoritarian government, violence is not acceptable.",
-            "Lasting peace leads to prosperity",
-            "War usually leads to worse outcomes"
+            "即使在抗议专制政府时，暴力也是不可接受的。",
+            "持久和平带来繁荣。",
+            "战争通常会导致更怀的结果。"
         ],
         [//-3
-            "Military spending is a waste of money.",
-            "We have no right to militarily intervene in other nations",
-            "Countries fall apart with constant war"
+            "军费开支是浪费。",
+            "我们无权对其他国家作出军事干预。",
+            "国家在不断的战争中崩溃。"
         ],
         [//-4
-            "War is never justified",
-            "In the modern era, militaries aren't really necessary",
-            "Nations should not maintain a military"
-        ]],[//Security-Freedom
+            "战争从来都不是合理的。",
+            "在现代，军队并不是真正有必要存在的。",
+            "国家不应维持军队。"
+        ]],[//安全-自由
         [//4
-            "Those who disagree with the government should be removed from the country",
-            "The government should monitor all citizens to combat terrorism",
-            "People should not have protections that could hinder discovering their criminal activity"
+            "不同意政府的人应该被赶出国门。",
+            "政府应监控所有公民以打击恐怖主义。",
+            "人们不应该有可能阻碍可以发现其犯罪活动的保护措施。"
         ],
         [//3
-            "Police need more power and protection",
-            "It is very important to maintain law and order.",
-            "A country must be sure to take all measures to enforce its laws"
+            "警察需要更多的权力和保护措施。",
+            "维护法律地位和社会秩序非常重要。",
+            "一个国家必须确保采取一切措施来执行其法律。"
         ],
         [//2
-            "If you have nothing to hide, then you shouldn't care about the government having access to your communications",
-            "The sacrifice of some civil liberties is necessary to protect us from acts of terrorism.",
-            "Government surveillance is necessary in the modern world."
+            "如果你没有什么可隐瞒的，你就不应该关心政府能否访问你的通信。",
+            "为了保护我们免受恐怖主义行为的侵害，牺牲一些公民自由是必要的。",
+            "在现代社会，政府监控是必要的。"
         ],
         [//1
-            "The government should have access to the emails of suspected terrorists",
-            "Some freedom must be given up in order to keep people safe",
-            "Absolute freedom makes a society dangerous"
+            "政府应该可以查阅恐怖分子嫌疑人的电子邮件。",
+            "为了保证人们的安全，放弃一些自由是必要的。",
+            "绝对自由使社会危机四伏。"
         ],
         [//-1
-            "Marijuana should be legalized",
-            "People should be given freedom whenever it causes little security risk",
-            "The government has no business looking into most people's personal lives"
+            "大麻应当合法化。",
+            "只要对安全造成的威胁不大，就应该给予人们自由。",
+            "政府无权调查多数人的个人生活。"
         ],
         [//-2
-            "Abortion should be legal in all cases",
-            "Police should be regulated more",
-            "No authority should be left unquestioned."
+            "堕胎在任何情况下都应合法。",
+            "应加强对警察的监管。",
+            "任何权威都不应不受质疑。"
         ],
         [//-3
-            "Victimless crimes (such as drug use) should not be crimes at all.",
-            "Most drugs should be legalized",
-            "Whistleblowers should be strongly protected"
+            "无受害人犯罪（例如吸毒）根本就不应该算是犯罪。",
+            "多数毒品都应合法化。",
+            "应大力保护吹哨人。"
         ],
         [//-4
-            "The very existence of the state is a threat to our liberty.",
-            "There should be no police force",
-            "People's freedom should have no limits"
-        ]],[//Equality-Markets`
+            "国家的存在本身就会损害到我们的自由。",
+            "警队不应该存在。",
+            "人民的自由应该没有限制。"
+        ]],[//平等-市场
         [//4
-            "Communism, if implemented correctly, would be a good form of economics",
-            "From each according to his ability, to each according to his need",
-            "Equality of outcome is important"
+            "在实施的当的情况下，共产主义将是一种很好的经济形式。",
+            "应当从按劳分配，转变为按需分配。",
+            "结果平等很重要。"
         ],
         [//3
-            "Oppression by corporations is more of a concern than oppression by governments.",
-            "Taxes should be increased on the rich to provide for the poor.",
-            "Public utilities like roads and electricity should be publicly owned."
+            "公司的压迫比政府的压迫更值得关注。",
+            "应该对富人增税，以供养穷人。",
+            "公路建设行业和电力行业等基础公共事业应为公有。"
         ],
         [//2
-            "I support single-payer, universal healthcare.",
-            "The wealthy have far more than they need",
-            "Basic things needed to live, such as healthcare, are rights"
+            "我支持政府统一买单的全民医保。",
+            "富人所拥有的远远超过他们的需要。",
+            "人们有权免费享受到他们生活所需的基本事物，例如医疗保健。"
         ],
         [//1
-            "It is necessary for the government to intervene in the economy to protect consumers.",
-            "People should have equal opportunity to succeed",
-            "People born to wealthy families have unfair success even when they aren't skilled and don't work hard"
+            "政府有必要对干预经济以保护消费者。",
+            "人们应该有平等的成功机会。",
+            "出生在富裕家庭的人即使没有技术而不努力工作，也会获得成功，这是不公平的。"
         ],
         [//-1
-            "People should have the right to leave their wealth to their descendents",
-            "Excessive government intervention is a threat to the economy.",
-            "Economies without any capitalism will collapse"
+            "人们应该有权把财富留给他们的后代。",
+            "过度的政府干预威胁经济。",
+            "不包含任何资本主义成分的经济体系将会崩溃。"
         ],
         [//-2
-            "It is better to maintain a balanced budget than to ensure welfare for all citizens.",
-            "Capitalism is better than any existing alternative",
-            "Government owned industry is usually a bad idea"
+            "保持预算平衡优于确保所有公民的福利。",
+            "资本主义比任何现有的替代方案都好。",
+            "政府拥有产业通常是一个坏主意。"
         ],
         [//-3
-            "The freer the market, the freer the people",
-            "People should have to work for anything they get",
-            "The poor choose to be poor"
+            "市场越自由，人民越自由。",
+            "人们只应该通过工作获取东西。",
+            "穷人的贫困是他们自己的选择"
         ],
         [//-4
-            "The government should not regulate the economy at all",
-            "The government should not break up monopolies",
-            "Those who do not work should die"
-        ]],[//Secular-Religious
+            "政府根本就不应监管经济。",
+            "政府不应打击垄断。",
+            "应该处决不工作的人。"
+        ]],[//世俗-宗教
         [//4
-            "Religion should be banned",
-            "Faith is complete nonsense",
-            "Religion must decline for society to progress"
+            "应该禁止宗教。",
+            "信仰完全是无稽之谈。",
+            "宗教衰落是社会进步的必要条件。"
         ],
         [//3
-            "Religious clothing should be banned from public",
-            "There is no higher power",
-            "The government should not fund any religious organizations in any way"
+            "应该禁止在公共场合穿着宗教服装。",
+            "至高力量不存在。",
+            "政府不应以任何方式资助任何宗教组织。"
         ],
         [//2
-            "I support gay marriage",
-            "Every religion must be looked upon equally by the government",
-            "Religion should be removed from everything in our government"
+            "我支持同性婚姻。",
+            "政府必须平等看待每一种宗教。",
+            "应当去除政府中的一切宗教元素。"
         ],
         [//1
-            "Religion does not belong in government",
-            "Laws should not be based on religion",
-            "There must be a separation between church and state"
+            "宗教组织不应直接影响政府。",
+            "法律不应基于宗教。",
+            "政教分离必须实现。"
         ],
         [//-1
-            "I believe there is something after death",
-            "Religion is beneficial for society",
-            "People must be allowed to follow a religion"
+            "我相信有死后世界。",
+            "宗教有益于社会。",
+            "必须允许人们信奉一种宗教。"
         ],
         [//-2
-            "I believe in a higher power",
-            "Religious organizations often provide better assistance to the poor than the government does",
-            "Children should be educated in religious values."
+            "世间存在至高力量。",
+            "宗教组织往往能比政府为穷人提供更多援助",
+            "儿童应该接受宗教价值观教育。"
         ],
         [//-3
-            "Religion usually provides the truth",
-            "My religious values should be spread as much as possible.",
-            "Sex outside marriage is immoral."
+            "宗教通常提供了真相。",
+            "我信仰的宗教价值观应该尽可能多地传播。",
+            "婚外性行为不道德。"
         ],
         [//-4
-            "Theocracy is a good system of government",
-            "The government should support and only recognize one religion",
-            "Most bad things happening in the world are caused by us turning away from religion"
-        ]],[//Progressive-Traditional
+            "神权统治是一种好的政府制度。",
+            "政府应该只支持和承认一种宗教。",
+            "世界上发生的大多数坏事都是因我们背离宗教而导致的。"
+        ]],[//进步-传统
         [//4
-            "If AI could rule more effectively than humans, then AI should rule",
-            "Genetic modification is a force for good, even on humans.",
-            "Tradition just hinders the progress of technology"
+            "如果AI能够比人类更有效地统治社会，那AI应该统治社会。",
+            "基因改造是一种向善的力量，即使对人类也是如此。",
+            "传统只会阻碍技术进步。"
         ],
         [//3
-            "Automation overall is extremely good for society",
-            "Traditions are of no value on their own.",
-            "When people have already suffered for technology to be developed, we should use that technology"
+            "总体而言，自动化非常有益于社会。",
+            "传统本身没有价值。",
+            "即使是在人们已经因为某项技术的发展而受苦时，我们也应该使用那项技术。"
         ],
         [//2
-            "We should put effort into getting a person on Mars in the near future",
-            "Testing products on animals is ethical",
-            "Technological progress is usually good"
-            
+            "我们应该努力在不久的将来让人类登上火星。",
+            "在动物身上测试产品合乎道德。",
+            "技术进步通常是好事。"
         ],
         [//1
-            "Human Caused climate change is currently one of the greatest threats to our way of life.",
-            "Environmental regulations are essential.",
-            "A better world will come from automation, science, and technology."
+            "人类造成的气候变化是目前对我们生活方式的最大威胁之一。",
+            "环境法规必不可少。",
+            "一个更好的世界将来自于自动化、科学和技术。"
         ],
         [//-1
-            "To chase progress at all costs is dangerous.",
-            "Technology is not always beneficial",
-            "Traditions are important"
+            "不惜一切代价追求进步是很危险的。",
+            "技术并非总是有益。",
+            "传统十分重要。"
         ],
         [//-2
-            "Technology is negatively affecting modern society",
-            "Genetic modification should be used rarely, if ever",
-            "Maintaining family values is essential."
+            "技术正对现代社会产生负面影响。",
+            "如果存在基因改造技术，那它应该被尽可能少地使用。",
+            "保持家庭价值观至关重要。"
         ],
         [//-3
-            "Society was better many years ago than it is now.",
-            "It is important that we maintain the traditions of our past.",
-            "The elders in society know the best path for it"
+            "许多年前的社会比现在要好。",
+            "保持我们过去的传统很重要。",
+            "社会中的长者知道什么对我们更有益。"
         ],
         [//-4
-            "Traditional medicines are often more effective than modern medicines",
-            "The Internet should be banned",
-            "We must go back to a basic way of life without modern conveniences."
-        ]],[//Assimilationist-Multiculturalist
+            "传统药物往往比现代药物更有效。",
+            "应该禁止国际联网。",
+            "我们必须回到没有现代便利设施的基本生活方式。"
+        ]],[//同化主义-多元文化主义
         [//4
-            "Foreigners should never enter the country",
-            "We should not allow any refugees",
-            "Only our national language(s) should be spoken in our country"
+            "外国人不应进入我国。",
+            "我们不应允许任何难民移民我国。",
+            "我们国家只应该使用我国的民族语言。"
         ],
         [//3
-            "Only extremely talented immigrants, if that, should be permitted to enter the country",
-            "If we accept migrants at all, it is important that they assimilate into our culture.",
-            "Immigrants can never really adapt to our way of life"
+            "只有极有才华的移民才应该被允许进入我国。",
+            "如果我们接受移民的话，让他们与我们的文化同化是很重要的。",
+            "移民永远无法真正适应我们的生活方式。"
         ],
         [//2
-            "In general, immigrants are bad for the country",
-            "A nation's culture is important to protect",
-            "Illegal immigrants do not provide a benefit to the hosting country"
+            "移民一般对国家不利。",
+            "保护民族文化很重要。",
+            "非法移民不会给收容国带来好处。"
         ],
         [//1
-            "Illegal immigrants should be deported in most or all cases",
-            "Immigrants should be expected to learn the language of the country",
-            "Border protection is important"
+            "在多数或所有情况下，非法移民应被驱逐出境。",
+            "应当期望移民学习该国的语言",
+            "边境保护很重要。"
         ],
         [//-1
-            "We should be taking in more refugees",
-            "Immigrants are a net positive",
-            "I enjoy some foreign cultures"
+            "我们应该接收更多难民。",
+            "移民是一个净积极因素。",
+            "我喜欢一些外来文化。"
         ],
         [//-2
-            "No cultures are superior to others.",
-            "We should be more accepting to other cultures",
-            "All societies are a blend of cultures"
+            "没有任何文化优于其他文化。",
+            "我们应该更多地接受其他文化。",
+            "所有社会都是文化的混合体。"
         ],
         [//-3
-            "Everybody should speak at least two languages",
-            "All humans share a common identity",
-            "Our culture would be better with other cultures mixed in more"
+            "每个人都应该至少会说两种语言。",
+            "所有人都有一个共同身份。",
+            "我们的文化如果能更多地融合其他文化，就会变得更好。"
         ],
         [//-4
-            "Governments should be as concerned about foreign citizens as they are about those within their borders.",
-            "Anybody who wants to enter the country should be able to",
-            "The benefits of open borders would outweigh the costs"
+            "各国政府应该像关心本国境内公民一样关心外国公民。",
+            "不应阻挡任何想要进入我国的人。",
+            "开放边界利大于弊。"
         ]
     ]];
