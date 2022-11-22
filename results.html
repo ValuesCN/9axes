@@ -115,15 +115,15 @@
     rightArray = ["集权派","威权派","孤立主义","和平主义","自由派","市场派","宗教派","传统派","多元文化主义"]
 
     function setLabel(val,axis) {
-        if (val >= 90) { return "狂热 " + leftArray[axis] } else
-        if (val >= 80) { return "极端 " + leftArray[axis] } else
+        if (val >= 90) { return "狂热" + leftArray[axis] } else
+        if (val >= 80) { return "极端" + leftArray[axis] } else
         if (val >= 70) { return leftArray[axis] } else
-        if (val >= 60) { return "温和 " + leftArray[axis] } else
+        if (val >= 60) { return "温和" + leftArray[axis] } else
         if (val > 40) { return "中立" } else
-        if (val > 30) { return "温和 " + rightArray[axis] } else
+        if (val > 30) { return "温和" + rightArray[axis] } else
         if (val > 20) { return rightArray[axis] } else
-        if (val > 10) { return "极端 " + rightArray[axis] } else
-        	{return "狂热 " + rightArray[axis]}
+        if (val > 10) { return "极端" + rightArray[axis] } else
+        	{return "狂热" + rightArray[axis]}
     }
 
     a  = getQueryVariable("a")
