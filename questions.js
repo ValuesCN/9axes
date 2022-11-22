@@ -39,8 +39,8 @@ questions =
         [//-4
             "不需要地方政府或者州政府。",
             "法律应在一个国家的所有地区保持完全一致。",
-            "州强国弱，州弱国强。"
-        ]],[//Democratic-Authoritarian`
+            "州份越强大，国家越弱小。"
+        ]],[//民主-威权
         [//4
             "直接民主制是最好的政府形式。",
             "人们应该对他们提出的议题逐个投票表决。",
@@ -52,74 +52,74 @@ questions =
             "除我以外，没有人能够充分代表我的观点。"
         ],
         [//2
-            "Elections are an effective way of showing government approval",
-            "Democracy is the worst form of government, except for all the others we've tried.",
-            "Each person should have one vote, each equal to every other"
+            "选举是显示政府认可的有效方式。",
+            "民主是最坏的政府形式，除了我们反复尝试过的其他政府形式。",
+            "每个人都应该有平等的一票。"
         ],
         [//1
-            "Democracy is more than a decision-making process.",
-            "People should have the power to choose their leaders",
-            "The government must be by the people for the people"
+            "民主不仅仅是一个决策过程。",
+            "人民应该有权力选择他们的领导人。",
+            "政府必须是民治民享的。"
         ],
         [//-1
-            "The stronger the leadership, the better.",
-            "Popular opinion is not always right",
-            "Leaders must be strong or a nation will suffer"
+            "领导者越强越好。",
+            "民众的意见并不总是正确的。",
+            "领导者必须强大，否则国家就会遭殃。"
         ],
         [//-2
-             "A hierarchical state is best.",
-            "Society could not function without leaders and followers",
-             "Democracy makes it too easy for a majority to further itself at the expense of minorities"
+             "阶级社会的存在才是最好的。",
+             "没有领导者和追随者，社会就无法运转。",
+             "民主容易使多数人牺牲少数人的利益来促进自己的发展。"
         ],
         [//-3
-            "The general populace makes poor decisions.",
-             "It is important that we further my group's goals above all others.",
-            "Public opinion swings too much with emotional events to be useful for policy making"
+            "普通民众只会做出糟糕的决定.",
+            "集体目标高于一切。",
+            "舆论随情感事件的波动太大，无益于政策制定。"
         ],
         [//-4
-            "Elections are a waste of resources",
-            "Catering to popular opinion is detrimental to a nation",
-            "A nation must obey its leadership without question"
-        ]],[//Globalist-Isolationist
+            "选举浪费资源。",
+            "迎合民意会危害国家。",
+            "国民必须完全服从其领导，这毫无疑问。"
+        ]],[//全球-孤立
         [//4
-            "A united world government would be beneficial to mankind.",
-            "We are first and foremost citizens of Earth",
-            "In order for humanity to survive, we must get past having separate nations"
+            "一个统一的世界政府有利于人类。",
+            "我们首先是地球的公民。",
+            "为了人类的生存，我们必须废除独立国家。"
         ],
         [//3
-            "The United Nations needs more power",
-            "The United Nations should have a military to enforce its resolutions",
-            "Having independent nations with the risk of global conflict creates a large threat to humanity as a whole"
+            "联合国需要更多权力。",
+            "联合国应该有一支军队来执行其决议。",
+            "独立国家可能造成全球冲突，对整个人类造成了巨大威胁。"
         ],
         [//2
-            "I support regional unions, such as the European Union.",
-            "Governments should be accountable to the international community.",
-            "Nations fighting among each other gets in the way of progress"
+            "我支持区域型联盟，例如欧盟。",
+            "各国政府应对国际社会负责。",
+            "国家间的战斗不利于发展。"
         ],
         [//1
-            "International trade is generally beneficial.",
-            "Alliances are important for protecting a nation",
-            "Nations should cooperate whenever it benefits them both"
+            "国际贸易通常有益。",
+            "联盟对于保护一个国家非常重要。",
+            "只要合作有利于双方，国家就应该合作。"
         ],
         [//-1
-            "It is important to maintain our national sovereignty.",
-            "My nation is closer to my views than most nations in the world",
-            "I am proud to be in my country"
+            "维护国家主权很重要。",
+            "我国家的观点比世界上大多数国家更接近我的观点。",
+            "我为身处于我的国家而自豪。"
         ],
         [//-2
-            "International aid is a waste of money.",
-            "Alliances can pose a threat to a nation's sovereignty.",
-            "National cultures are important to protect"
+            "国际援助是浪费金钱。",
+            "联盟会威胁国家主权。",
+            "保护民族文化很重要。"
         ],
         [//-3
-            "My nation should stay out of international affairs",
-            "The United Nations should be abolished.",
-            "Nobody in other countries has our best interests in mind"
+            "我国应远离国际事务",
+            "应当废除联合国。",
+            "没有其他国家人会考虑我们的最大利益。"
         ],
         [//-4
-            "Diplomacy only hurts nations",
-            "There should not be international law",
-            "Any deals other countries want must be bad for us"
+            "外交只会伤害国家。",
+            "国际法不应存在。",
+            "只有在交易不利于我们的时候，其他国家才会想要与我们交易商品。"
         ]],[//Militarist-Pacifist
         [//4
             "War is needed to make an economy thrive",
