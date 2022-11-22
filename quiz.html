@@ -51,7 +51,7 @@
         var rate = quests[qn][1];
         var num = quests[qn][2];
         document.getElementById("question-text").innerHTML = questions[ax][rate][num];
-        document.getElementById("question-number").innerHTML = "Question " + (qn + 1) + " of " + (quests.length);
+        document.getElementById("question-number").innerHTML = "第" + (qn + 1) + "题，共" + (quests.length) + "题";
         if (qn == 0) {
             document.getElementById("back_button").style.display = 'none';
             document.getElementById("back_button_off").style.display = 'block';
