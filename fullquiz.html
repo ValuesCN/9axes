@@ -12,15 +12,15 @@
 </script>
 <h1>9Axes</h1>
 <hr>
-<h2 style="text-align:center;" id="question-number">Loading...</h2>
+<h2 style="text-align:center;" id="question-number">加载中……</h2>
 <p class="question" id="question-text"></p>
-<button class="button" onclick="next_question( 2)" style="background-color: #1b5e20;">Strongly Agree</button> <br>
-<button class="button" onclick="next_question( 1)" style="background-color: #4caf50;">Agree</button> <br>
-<button class="button" onclick="next_question( 0)" style="background-color: #bbbbbb;">Neutral/Unsure</button> <br>
-<button class="button" onclick="next_question(-1)" style="background-color: #f44336;">Disagree</button> <br>
-<button class="button" onclick="next_question(-2)" style="background-color: #b71c1c;">Strongly Disagree</button> <br>
-<button class="small_button" onclick="prev_question()" id="back_button">Previous</button>
-<button class="small_button_off" id="back_button_off">Previous</button><br>
+<button class="button" onclick="next_question( 2)" style="background-color: #1b5e20;">非常同意</button> <br>
+<button class="button" onclick="next_question( 1)" style="background-color: #4caf50;">同意</button> <br>
+<button class="button" onclick="next_question( 0)" style="background-color: #bbbbbb;">中立/不确定</button> <br>
+<button class="button" onclick="next_question(-1)" style="background-color: #f44336;">反对</button> <br>
+<button class="button" onclick="next_question(-2)" style="background-color: #b71c1c;">非常反对</button> <br>
+<button class="small_button" onclick="prev_question()" id="back_button">上一个</button>
+<button class="small_button_off" id="back_button_off">上一个</button><br>
 
 
 <script>
@@ -52,7 +52,7 @@
         var rate = quests[qn][1];
         var num = quests[qn][2];
         document.getElementById("question-text").innerHTML = questions[ax][rate][num];
-        document.getElementById("question-number").innerHTML = "Question " + (qn + 1) + " of " + (quests.length);
+        document.getElementById("question-number").innerHTML = "第 " + (qn + 1) + "题，共" + (quests.length) + "题";
         if (qn == 0) {
             document.getElementById("back_button").style.display = 'none';
             document.getElementById("back_button_off").style.display = 'block';
